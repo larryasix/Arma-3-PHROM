@@ -1,4 +1,3 @@
-# Passw0rd: 5566
 
 > [!Note]
 > > Click on the image to download
